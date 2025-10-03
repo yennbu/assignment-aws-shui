@@ -1,0 +1,30 @@
+.new-note-btn {
+    background-color: #996A3E;
+    color: #FAF7EE;
+    width: 6rem;
+    height: 6rem;
+    border-radius: 7px;
+    border: none;
+    position: fixed;
+    bottom: 3rem;
+    right: 2rem;
+
+    font-size: 3rem;
+
+    box-shadow: #292929c4 5px 5px 5px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    transition: ease 0.5s;
+}
+
+.new-note-btn:hover {
+    background-color: #7E5230;
+    cursor: pointer;
+}
+
+.new-note-btn__pen {
+    margin-right: -0.6rem;
+}

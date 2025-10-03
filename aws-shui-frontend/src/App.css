@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #243839;
+  color: #FAF7EE;
+  font-family: 'Fira Sans', sans-serif;
+  
+  display: flex;
+  justify-content: center;
+}

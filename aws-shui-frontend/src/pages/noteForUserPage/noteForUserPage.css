@@ -1,0 +1,23 @@
+.user-noteboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.user-noteboard__header {
+    display: flex;
+}
+
+.user-noteboard__h2 {
+    margin: 1rem;
+    font-family: 'Fira sans', sans-serif;
+    font-weight: 400;
+}
+
+.user-noteboard__btn {
+    color: aqua;
+}
+
+.username-highlight {
+    color: #e6d8ab;
+}

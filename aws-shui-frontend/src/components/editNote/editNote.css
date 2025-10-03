@@ -1,0 +1,55 @@
+.edit-note__container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+.edit-note {
+    width: 90%;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.edit-note__title {
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    font-family: 'Fira sans', sans-serif;
+    background-color: #FAF7EE;
+
+    border: none;
+    margin-bottom: 2px;
+}
+
+.edit-note__content {
+    padding: 0.8rem 0 3rem 0.5rem; /* top, right, bottom, left*/
+    font-size: 0.85rem;
+    font-family: 'Fira sans', sans-serif;
+    background-color: #FAF7EE;
+
+    border: none;
+}
+
+.edit-note__content:focus {
+    border: none;
+}
+
+.edit-note__btns {
+    display: flex;
+    gap: 2px;
+}
+
+.edit-note__btn {
+    width: 50%;
+    border: none;
+    padding: 0.5rem;
+    color: #FAF7EE;
+}
+
+.edit-save {
+    background-color: #996A3E;
+}
+
+.edit-cancel {
+    background-color: #d60000;
+}
