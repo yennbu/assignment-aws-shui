@@ -19,7 +19,7 @@ Jag har utnyttjat Zustand för att skapa custom hooks där jag sparar informatio
 Det är inte den mest säkra användarvalideringen, men jag tycker att det funkar för den här uppgiften
 
 ### Fortsättning
-Om jag hade fortsatt arbeta med appen hade jag
+Om jag hade fortsatt arbeta med appen hade jag:
 
 Sagt till att man bara kan redigera en anteckning i taget
 
