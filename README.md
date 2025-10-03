@@ -26,3 +26,6 @@ Sagt till att man bara kan redigera en anteckning i taget
 Gjort så att man kan fästa/favoritmarkera anteckningar
 
 Fixat buggen med att man inte kan ladda om sidan "/notes-for-user"
+
+### Figma
+https://www.figma.com/design/kSzgW6urAFrOFXCfHzebiR/Untitled?node-id=0-1&t=TsWAqIvK7t3Lb16u-1
