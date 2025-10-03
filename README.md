@@ -2,7 +2,7 @@
 Individuell inlämning för Utveckling och driftsättning i molnmiljöer
 
 
-### Användning:
+### Användning
 Klicka på loggan för att komma till startsidan.
 
 Klicka på användaren inuti en anteckning för att sortera anteckningar efter den användaren
